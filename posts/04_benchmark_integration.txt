@@ -1,0 +1,5 @@
+Evaluate your VLA with ready-to-use benchmark integrations.
+
+StarVLA provides 13 simulation benchmark integrations and a shared policy-serving interface for simulation and real robots.
+
+https://starvla.github.io/#benchmarks

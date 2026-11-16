@@ -1,0 +1,5 @@
+Start your next experiment with a ready-to-use baseline.
+
+StarVLA provides training recipes, checkpoints and reference results across LIBERO, SimplerEnv, RoboTwin and RoboCasa.
+
+https://starvla.github.io/#benchmarks

@@ -1,0 +1,5 @@
+Build your own VLA around your choice of VLM or world model.
+
+Combine pretrained backbones with action heads, customize their connections, and reuse StarVLA's data, training and evaluation tools.
+
+https://github.com/starVLA/starVLA

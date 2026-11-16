@@ -1,0 +1,5 @@
+Train with the data mix your research needs.
+
+Use robot demonstrations, mix data across embodiments, or co-train with vision-language data. StarVLA provides configurable mixtures and reusable training tools.
+
+https://github.com/starVLA/starVLA

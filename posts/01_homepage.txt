@@ -1,0 +1,6 @@
+We’ve refreshed the StarVLA homepage!
+
+StarVLA is nearing 4,000 GitHub stars, with 60+ community projects building on it.
+
+Explore policy architectures, training recipes, benchmarks, and community projects built with StarVLA.
+https://starvla.github.io/
