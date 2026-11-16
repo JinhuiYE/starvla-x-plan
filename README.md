@@ -158,7 +158,7 @@ https://starvla.github.io/#research
 
 也提供[独立 star 增长动画](media/07-community/star-growth.mp4)、[GIF 版](media/07-community/star-growth.gif)和[最终画面](media/07-community/star-growth-cover.png)。[原社区短片](media/07-community/community-projects-voice50.mp4)和[社区项目截图](media/07-community/community-projects.png)保留备用。
 
-动画重新绘制了[Star History 站点](https://simrepo.dera.page/starVLA/starVLA?legend=bottom-right)公开接口的 251 条记录，时间为 2025-10-10 至 2026-11-13，终点为 3,939 stars；图中保留来源与截止日期。首帖的实时数量和该历史快照对应不同日期，英文稿统一使用 `nearing 4,000`。[原始记录 CSV](media/07-community/star-history.csv)和[最终曲线 SVG](media/07-community/star-growth.svg)保存在同一素材目录，方便后续更新。
+动画采用[Star History 站点](https://simrepo.dera.page/starVLA/starVLA?legend=bottom-right)公开接口的历史记录，展示 2025-10-10 至 2026-09-29 的增长，终点为 3,912 stars；图中保留来源与截止日期。原始 CSV 保留完整记录，动画截取到 2026 年 10 月之前。首帖的实时数量和该历史快照对应不同日期，英文稿统一使用 `nearing 4,000`。[原始记录 CSV](media/07-community/star-history.csv)和[最终曲线 SVG](media/07-community/star-growth.svg)保存在同一素材目录，方便后续更新。
 
 ## 视频拆分
 
