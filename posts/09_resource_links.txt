@@ -1,0 +1,8 @@
+StarVLA resources, all in one place:
+
+Homepage: https://starvla.github.io/
+Code: https://github.com/starVLA/starVLA
+Docs: https://starvla.github.io/docs/
+Checkpoints: https://huggingface.co/StarVLA
+Technical report: https://arxiv.org/abs/2604.05014
+Community projects: https://starvla.github.io/#research

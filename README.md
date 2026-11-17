@@ -1,6 +1,6 @@
 # StarVLA 首次 X 宣传计划
 
-更新于 2026-11-18。这里维护 StarVLA 第一次在 X 上的正式系列宣传，包括逐条文案、图片、视频和发布安排。**Post 1、2 已发布；Post 3–7 待认领、完善和发布。** [已发布内容入口](https://x.com/JinhuiYe/status/2122753570730893678)。
+更新于 2026-11-18。这里维护 StarVLA 第一次在 X 上的正式系列宣传，包括逐条文案、图片、视频和发布安排。**Post 1、2、8 已发布；Post 3–7 待认领、完善和发布；Post 9 资源导航稿已准备。** [第一天发布入口](https://x.com/JinhuiYe/status/2122753570730893678)；Post 8 的独立推文链接待补录。
 
 ## 如何协作
 
@@ -11,7 +11,7 @@
 
 ```
 README.md           统一计划、分工、文案和发布记录
-posts/              七条英文稿，发布状态以本 README 为准
+posts/              九条英文稿，发布状态以本 README 为准
 media/01-homepage/  主页图片
 media/02-overview/  完整宣传视频与封面
 media/03-models/    模型片段与结构图
@@ -29,7 +29,7 @@ StarVLA 已经开源并持续维护了一段时间，也有社区在实际使用
 
 每条有一个话题、一份与话题直接相关的素材，以及一个可继续了解的入口。完整视频承担概览，短片和结构图分别展开具体能力。
 
-内容对读者的帮助体现在可参考的实现、可复用的工具和清晰的资源链接中。开头可以是一项工作、一个研究选择或一个具体问题，避免连续使用 “Build…”、“Start…”、“Choose…” 这样的号召式句子。每条保留对应的公开 URL，方便有需要的读者继续了解。
+内容对读者的帮助体现在可参考的实现、可复用的工具和清晰的资源链接中。开头可以是一项工作、一个研究选择或一个具体问题，避免连续使用 “Build…”、“Start…”、“Choose…” 这样的号召式句子。独立帖子保留对应的公开 URL；引用帖通过原帖提供资源入口。
 
 ## 同日协作发布 讨论稿
 
@@ -44,12 +44,16 @@ StarVLA 已经开源并持续维护了一段时间，也有社区在实际使用
 | 5 | 从现成 baseline 开始自己的实验 | 结果动画 | 熟悉训练配方与 benchmark 结果的同学 | 待认领 |
 | 6 | 按研究需求组合训练数据 | 训练短片 | 参与数据与训练工具的同学 | 待认领 |
 | 7 | 从社区研究中寻找思路和实现 | 社区短片与 star 增长动画 | 主账号、项目账号或社区维护参与者 | 待定 |
+| 8 | 社区与高校共同建设开源基础设施 | Quote 第一天主帖，附 star 增长视频 | 已发布，分享维护过程并致谢 | Jinhui Ye |
+| 9 | 官网、代码、文档、checkpoint、技术报告和社区项目入口 | 纯文字资源导航 | 主账号，便于读者收藏和查找 | 待定 |
 
 后续帖子可以引用[已发布内容](https://x.com/JinhuiYe/status/2122753570730893678)，也可以独立成帖。每条保留一个明确的内容重点，并附上对应素材和资源入口。同一位参与者可以负责相关的两个话题。
 
-Post 3–7 的英文稿作为认领时的基础稿。确定发布人后，再加入其实际参与的内容或个人视角；具体姓名、账号和发布日期填入本页。Post 1、2 保留发布前准备的文案，实际发布内容以 X 为准。
+Post 3–7 的英文稿作为认领时的基础稿。确定发布人后，再加入其实际参与的内容或个人视角；具体姓名、账号和发布日期填入本页。Post 1、2 保留发布前准备的文案，实际发布内容以 X 为准；Post 8 的正文已由 Jinhui 确认发布。编号用于整理素材，不代表实际发布顺序。
 
 Post 4 展示集成范围，Post 5 展示参考结果，分别对应不同话题。素材中保留 benchmark 名称；结果图保留方法名称、图例和原有设置说明。
+
+Post 9 集中提供已核对的公开资源链接，可以接在第一天主帖下作为资源索引，也可以独立发布。
 
 ## Post 1 新主页
 
@@ -158,6 +162,35 @@ https://starvla.github.io/#research
 
 动画采用[Star History 站点](https://simrepo.dera.page/starVLA/starVLA?legend=bottom-right)公开接口的历史记录，展示 2025-10-10 至 2026-09-29 的增长，终点为 3,912 stars；图中保留来源与截止日期。原始 CSV 保留完整记录，动画截取到 2026 年 10 月之前。首帖的实时数量和该历史快照对应不同日期，英文稿使用接近 4,000 stars 的表述。[原始记录 CSV](media/07-community/star-history.csv)和[最终曲线 SVG](media/07-community/star-growth.svg)保存在同一素材目录，方便后续更新。
 
+## Post 8 社区与高校的共同投入
+
+**已发布。** Jinhui 已确认使用以下文案，独立推文链接待补录。
+
+**发布方式：Quote [第一天主帖](https://x.com/JinhuiYe/status/2122753570730893678)，并附上 [star 增长视频](media/07-community/star-growth.mp4)。** 通过原帖承接项目介绍与资源链接，正文分享过去一年持续开发的不易与社区、高校研究者的共同投入，视频展示社区关注的增长。
+
+```text
+We’ve been building and improving StarVLA for the past year, with support from the community and researchers across universities.
+
+It hasn’t been easy, but together we’re making robot learning research more accessible. Thank you for being part of it.
+```
+
+**确定素材：[star-growth.mp4](media/07-community/star-growth.mp4)。** 使用现有无声版本，曲线截到 2026 年 10 月之前。直接上传视频，不另附图片；引用的原帖提供项目入口。
+
+## Post 9 资源导航
+
+把常用入口集中在一条帖子中，方便读者找到代码、使用说明、模型和已有社区工作。可作为第一天主帖的回复或独立帖子，无需配图。以下链接已于 2026-11-18 核对。
+
+```text
+StarVLA resources, all in one place:
+
+Homepage: https://starvla.github.io/
+Code: https://github.com/starVLA/starVLA
+Docs: https://starvla.github.io/docs/
+Checkpoints: https://huggingface.co/StarVLA
+Technical report: https://arxiv.org/abs/2604.05014
+Community projects: https://starvla.github.io/#research
+```
+
 ## 视频拆分
 
 以 [完整宣传视频](media/02-overview/overview-voice50.mp4) 为统一来源。Post 2 使用完整视频，其他帖子按实际场景选择片段，避免每条重新制作一套视觉。
@@ -179,7 +212,7 @@ https://starvla.github.io/#research
 
 ## 执行与素材入口
 
-Post 1、2 已由 Jinhui 确认发布，确认日期为 2026-11-18；目前记录其提供的统一发布入口。后续逐条补充独立推文链接和实际发布日期。Post 3–7 发布前确认话题认领人、英文稿和一份主素材，预览文字、画面与链接，发布后更新下表。
+Post 1、2、8 已由 Jinhui 确认发布，确认日期为 2026-11-18。Post 1、2 记录其提供的统一发布入口；Post 8 已确认正文，独立推文链接待补录。后续逐条补充实际发布日期。Post 3–7 发布前确认话题认领人、英文稿和一份主素材；Post 9 使用纯文字资源导航。预览后发布并更新下表。
 
 | Post | 当前状态 | 实际发布日期 | 推文链接 |
 | --- | --- | --- | --- |
@@ -190,7 +223,9 @@ Post 1、2 已由 Jinhui 确认发布，确认日期为 2026-11-18；目前记�
 | 5 | 建议稿；结果动画已备好 | 待定 | 待发布 |
 | 6 | 建议稿；训练短片已备好 | 待定 | 待发布 |
 | 7 | 建议稿；star 动画与社区素材已备好 | 待定 | 待发布 |
+| 8 | 已发布；Quote 第一天主帖，配 star 增长视频 | 待补录 | 链接待补录 |
+| 9 | 文案已备好；六个资源入口已核对 | 待定 | 待发布 |
 
-待发布文案以本 README 为准，[posts/](posts/) 提供对应纯文本。修改某条待发布文案后，同时更新对应的 `.txt` 文件。Post 1、2 的准备稿保留供参考，实际发布内容以 X 为准。
+待发布文案以本 README 为准，[posts/](posts/) 提供对应纯文本。修改某条待发布文案后，同时更新对应的 `.txt` 文件。Post 1、2 的准备稿保留供参考，实际发布内容以 X 为准；Post 8 保留已确认发布的正文。
 
 素材来源包括[公开主页](https://starvla.github.io/)、现有宣传视频、真实主页 SVG 和界面截图。演示片段来自主页的 SimplerEnv、RoboCasa-GR1 与 RoboTwin 2.0 视频。2026-11-16 的 GitHub API 核对结果为 3,950 stars，主页收录 61 个社区项目，因此准备稿使用接近 4,000 stars 和 `60+ community projects` 的表述。后续待发布帖子中的数量按发布当天情况核对。
