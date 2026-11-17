@@ -1,5 +1,4 @@
-Train with the data mix your research needs.
+Robot-only training, data from multiple embodiments, or co-training with vision-language data.
 
-Use robot demonstrations, mix data across embodiments, or co-train with vision-language data. StarVLA provides configurable mixtures and reusable training tools.
-
+These are some of the workflows supported in StarVLA through configurable dataset mixtures and shared training tools.
 https://github.com/starVLA/starVLA

@@ -1,6 +1,6 @@
-We’ve refreshed the StarVLA homepage!
+We’re happy to introduce StarVLA, an open-source codebase to help you develop and experiment with your own VLA models.
 
-StarVLA is nearing 4,000 GitHub stars, with 60+ community projects building on it.
+Nearly 4,000 GitHub stars, with 60+ community projects building on it.
 
-Explore policy architectures, training recipes, benchmarks, and community projects built with StarVLA.
+Models, recipes and benchmarks:
 https://starvla.github.io/

@@ -1,5 +1,4 @@
-Evaluate your VLA with ready-to-use benchmark integrations.
+Different robot benchmarks come with different environments and dependencies.
 
-StarVLA provides 13 simulation benchmark integrations and a shared policy-serving interface for simulation and real robots.
-
+StarVLA integrates 13 simulation benchmarks, keeping environment clients separate from model execution. The policy-serving interface also supports real robots.
 https://starvla.github.io/#benchmarks

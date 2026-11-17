@@ -1,5 +1,4 @@
-Build your own VLA around your choice of VLM or world model.
+A VLA can start from a VLM or a video world model.
 
-Combine pretrained backbones with action heads, customize their connections, and reuse StarVLA's data, training and evaluation tools.
-
+In StarVLA, we connect pretrained backbones to different action heads while sharing data, training and evaluation tools. This clip shows how the pieces fit together.
 https://github.com/starVLA/starVLA

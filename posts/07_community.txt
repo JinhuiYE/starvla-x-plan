@@ -1,4 +1,4 @@
-Find ideas and implementations for your next robot learning project.
+It’s been encouraging to see 60+ community projects build on StarVLA, exploring architectures, representations and data.
 
-StarVLA is nearing 4,000 GitHub stars, with 60+ community projects building on it. Thanks to everyone sharing code, ideas and feedback!
+Along the way, the repo has grown to nearly 4,000 stars. Thanks to everyone sharing code, ideas and feedback.
 https://starvla.github.io/#research

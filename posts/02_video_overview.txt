@@ -1,6 +1,4 @@
-Building your own VLA? Here's a 70-second tour of StarVLA.
+We’ve been building StarVLA for experiments with different backbones, action heads and training data.
 
-Start from pretrained components, develop your own model, and reuse tools for data loading, training and evaluation.
-
-Open-source infra for robot learning research.
-https://github.com/starVLA/starVLA
+A quick look at the codebase, training workflows and benchmark integrations. Hope it’s useful for your own research.
+https://starvla.github.io/
